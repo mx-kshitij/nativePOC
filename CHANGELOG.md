@@ -6,6 +6,18 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ## [Unreleased]
 
+- We have updated the AppCenter's Xcode version to 15.4.
+
+# [7.0.22] - 2025-01-03
+
+- We have updated the implementation of the registerReceiver method to align with Android SDK 34 and above.
+
+# [7.0.20] - 2024-12-23
+
+- We have updated min sdk to 23 on android.
+
+# [7.0.19] - 2024-10-01
+
 - We have updated `react-native-permissions` to version `3.6.1`.
 
 # [7.0.17] - 2024-09-03
